@@ -30,3 +30,12 @@ section{
     background: #fff;
     margin-left:0px;
 }
+.menu__tab a {
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+}
+.menu__tab--active a {
+    color:#245f39;
+}
