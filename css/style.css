@@ -1,3 +1,18 @@
 html {
     font-family: 'Lato', sans-serif;
 }
+body {
+    width: 100%;
+    background-color: #eee;
+}
+header {
+    text-align: center;
+}
+nav {
+  max-width:1200px;
+  margin:auto
+}
+section{
+  max-width:1200px;
+  margin:auto;
+}
