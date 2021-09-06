@@ -81,5 +81,15 @@ h2{
     box-sizing: border-box;
     background-color:#245f39;
     border-radius:10px;
-    margin: 0 1rem;
+}
+
+.item-grid__button p {
+    font-size:26px;
+    color:#fff;
+}
+.item-grid__box input {
+    display:block;
+    width: 3rem;
+    margin:1rem auto;
+    color: #245f39;
 }
