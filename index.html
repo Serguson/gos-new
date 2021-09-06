@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/app.js" defer=""></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital@1&display=swap" rel="stylesheet"> 
+</head>
+<body>
+    <header class="header">
+        <div class="header__title">
+            <h1>Game of Sultans Calculator</h1>
+        </div>
+        <div class="header__subtitle">Wybierz, co chcesz policzyć</div>
+    </header>
+    
+    <nav class="menu">
+        <ul class="menu__tabs">
+                <li class="menu__tab menu__tab--active">
+                    <a href="#intimacy" class="menu__link">INTIMACY</a>
+                </li>
+                <li class="menu__tab">
+                    <a href="#charm" class="menu__link">CHARM</a>
+                </li>
+                <li class="menu__tab">
+                    <a href="#talent" class="menu__link">TALENT</a>
+                </li>
+            </ul>
+    </nav>
+    
+    <section class="intimacy-grid">
+        <header class="intimacy-grid__header">
+            <h2>INTIMACY CALCULATOR</h2>
+            <p>FIll all the fields below, please and then click "calculate".</p>
+        </header>
+        <div class="intimacy-grid__content">
+            <div class="intimacy-grid__box">
+                   <img src="images/Intimacy/01. Intimacy Chest.png" class="intimacy-grid__image" alt="intimacy chest">
+                   <h3>Intimacy Chest</h3>
+                   <input class="intimacy-grid__input" type="number"  id="intimacy-chest" value="0">
+            </div>
+             <div class="intimacy-grid__box">
+                   <img src="/images/Intimacy/02. Intimacy Pack.png" class="intimacy-grid__image" alt="intimacy pack">
+                   <h3>Intimacy Pack</h3>
+                   <input class="intimacy-grid__input" type="number"  id="intimacy-pack" value="0">
+            </div>
+            
+        </div>
+    </section>
+   
