@@ -16,17 +16,17 @@ section{
     max-width:1200px;
     margin:auto;
 }
-.menu-tabs{
+.menu__tabs{
     list-style:none;
     display:flex;
 }
-.menu-tab{
+.menu__tab{
     background: #245f39;
     border-radius: 15px 15px 0 0;
     margin-right: 2px;
     padding:1.5rem 2rem;
 }
-.menu__tab--active{
+menu__tab--active{
     background: #fff;
     margin-left:0px;
 }
