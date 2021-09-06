@@ -57,7 +57,6 @@ h2{
 }
 .item-grid__content{
     display:grid;
-    margin:auto;
     row-gap: 1rem;
     column-gap: 1rem;
 }
@@ -73,8 +72,6 @@ h2{
     border-width:1px;
     padding:1rem 2rem 1rem 2rem;
     border-radius: 10px 10px 10px 10px;
-    margin-left: 1rem;
-    margin-right: 1rem;
     border-color: #245f39;
     box-shadow:0 0 2px;
     max-width:220px;
