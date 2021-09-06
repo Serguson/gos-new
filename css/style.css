@@ -61,3 +61,9 @@ h2{
     row-gap: 1rem;
     column-gap: 1rem;
 }
+#intimacy-grid{
+    grid-template-columns: repeat(5, 1fr);
+}
+#charm-grid{
+    grid-template-columns: repeat(5, 1fr);
+}
