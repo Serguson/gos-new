@@ -16,6 +16,10 @@ section{
     max-width:1200px;
     margin:auto;
 }
+h2{
+    text-align: center;
+    padding-top: 1rem;
+}
 .menu__tabs{
     list-style:none;
     display:flex;
