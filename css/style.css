@@ -26,7 +26,7 @@ section{
     margin-right: 2px;
     padding:1.5rem 2rem;
 }
-menu__tab--active{
+.menu__tab--active{
     background: #fff;
     margin-left:0px;
 }
