@@ -55,7 +55,7 @@ h2{
     display:block;
     margin-top:-20px;
 }
-item-grid__content{
+.item-grid__content{
     display:grid;
     margin:auto;
     row-gap: 1rem;
