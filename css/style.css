@@ -9,10 +9,14 @@ header {
     text-align: center;
 }
 nav {
-  max-width:1200px;
-  margin:auto
+    max-width:1200px;
+    margin:auto;
+    display:flex;
 }
 section{
-  max-width:1200px;
-  margin:auto;
+    max-width:1200px;
+    margin:auto;
+}
+.menu-tabs{
+    style-list:none;
 }
