@@ -48,8 +48,7 @@ h2{
     background: #fff;
     min-height: 300px;
     display: none;
-    margin-left: 40px;
-    margin-rigth: auto;
+    margin:auto;
 }
 .item-grid--active{
     display:block;
