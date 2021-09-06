@@ -59,6 +59,7 @@ h2{
     display:grid;
     row-gap: 1rem;
     column-gap: 1rem;
+    padding: 1rem;
 }
 #intimacy-grid{
     grid-template-columns: repeat(5, 1fr);
