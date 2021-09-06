@@ -47,7 +47,6 @@ h2{
     background: #fff;
     min-height: 300px;
     display: none;
-    margin-left:40px;
 }
 .item-grid--active{
     display:block;
