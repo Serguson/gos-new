@@ -20,3 +20,9 @@ section{
     list-style:none;
     display-flex;
 }
+.menu-tab{
+    background: #245f39;
+    border-radius: 15px 15px 0 0;
+    margin-right: 2px;
+    padding:1.5rem 2rem;
+}
