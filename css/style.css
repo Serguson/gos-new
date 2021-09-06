@@ -21,6 +21,9 @@ h2{
     text-align: center;
     padding-top: 1rem;
 }
+h3 {
+    text-align: center;
+}
 .menu__tabs{
     list-style:none;
     display:flex;
