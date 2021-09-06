@@ -79,6 +79,7 @@ h3 {
     border-color: #245f39;
     box-shadow:0 0 2px;
     max-width:220px;
+    margin: 0 1rem;
 }
 .item-grid__button{
     box-sizing: border-box;
