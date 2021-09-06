@@ -24,6 +24,7 @@ h2{
 .menu__tabs{
     list-style:none;
     display:flex;
+    padding:0px;
 }
 .menu__tab{
     background: #245f39;
