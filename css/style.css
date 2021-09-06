@@ -10,7 +10,8 @@ header {
 }
 nav {
     max-width:1200px;
-    margin:auto;
+    margin-left: -40px;
+    margin-rigth: auto;
 }
 section{
     max-width:1200px;
