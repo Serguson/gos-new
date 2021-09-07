@@ -100,5 +100,8 @@ h3 {
 }
 .intimacy-results__values{
     display:flex;
-    justify-content:space-between;
+    justify-content:center;
+}
+.intimacy-results__values p{
+    padding:0, 2rem;
 }
