@@ -108,4 +108,5 @@ h3 {
 }
 .intimacy-results__vizier{
     display:flex;
+    justify-content:space-between;
 }
