@@ -106,3 +106,6 @@ h3 {
     padding:0 2rem;
     font-size: 1.25rem;
 }
+.intimacy-results__vizier{
+    display:flex;
+}
