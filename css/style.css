@@ -66,6 +66,7 @@ h3 {
 }
 
 .item-grid__image{
+    display: block;
     height: 60px;
     width: 60px;
     margin-left: auto;
