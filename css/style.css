@@ -64,6 +64,14 @@ h3 {
     column-gap: 1rem;
     padding: 1rem;
 }
+
+.item-grid__image{
+    height: 60px;
+    width: 60px;
+    margin-left: auto;
+    margin-rigth: auto;
+}
+
 #intimacy-grid{
     grid-template-columns: repeat(5, 1fr);
 }
