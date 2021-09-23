@@ -111,6 +111,12 @@ h3 {
     display:flex;
     justify-content:center;
 }
+.intimacy-results{
+    background-color: #eee;
+}
+.charm-results{
+    background-color: #eee;
+}
 .intimacy-results__values p{
     padding:0 2rem;
     font-size: 1.25rem;
